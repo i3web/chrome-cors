@@ -1,0 +1,14 @@
+{
+  "name": "chromecors",
+  "version": "1.0.3",
+  "main": "index.js",
+  "author": "lhf",
+  "license": "MIT",
+  "dependencies": {
+    "chrome-launcher": "0.15.0"
+  },
+  "bin": {
+    "cors":"index.js"
+  },
+  "repository": "https://github.com/i3web/chromecors.git"
+}
