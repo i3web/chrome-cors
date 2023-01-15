@@ -1,14 +1,16 @@
 {
-  "name": "chromecors",
-  "version": "1.0.3",
+  "name": "chrome-cors",
+  "version": "1.0.7",
   "main": "index.js",
-  "author": "lhf",
+  "author": "louhangfei",
   "license": "MIT",
   "dependencies": {
     "chrome-launcher": "0.15.0"
   },
   "bin": {
+    "chrome-cors":"index.js",
     "cors":"index.js"
   },
-  "repository": "https://github.com/i3web/chromecors.git"
+  "repository": "https://github.com/i3web/chrome-cors.git",
+  "keywords": ["chrome-cors", "allow-security", "cors"]
 }
